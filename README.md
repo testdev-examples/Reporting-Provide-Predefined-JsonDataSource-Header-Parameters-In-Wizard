@@ -2,7 +2,7 @@
 
 When you use the **Report Wizard** / **Data Source Wizard** to bind a report to JSON data, you can specify header parameters for the Web Service Endpoint on the **Specify Request Parameters** page. This example demonstrates how to provide predefined header parameters on this page.
 
-![Predefined Header Parameters](images/PredefinedHeaderParameters.png)
+![Predefined Header Parameters](Images/PredefinedHeaderParameters.png)
 
 Steps to implement this task:
 

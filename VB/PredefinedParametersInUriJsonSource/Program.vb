@@ -10,7 +10,7 @@ Namespace PredefinedParametersInUriJsonSource
         Private Sub New()
         End Sub
 
-        <STAThread>
+        <STAThread> _
         Shared Sub Main()
             Application.EnableVisualStyles()
             Application.SetCompatibleTextRenderingDefault(False)

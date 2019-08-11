@@ -1,9 +1,9 @@
-﻿
+
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-VisualStudioVersion = 15.0.28010.2016
+VisualStudioVersion = 15.0.28307.757
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "PredefinedParametersInUriJsonSource", "PredefinedParametersInUriJsonSource\PredefinedParametersInUriJsonSource.vbproj", "{38889CFD-DCFE-4DC7-B603-27DFB775341A}"
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "PredefinedParametersInUriJsonSource", "VB\PredefinedParametersInUriJsonSource\PredefinedParametersInUriJsonSource.vbproj", "{38889CFD-DCFE-4DC7-B603-27DFB775341A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,11 +15,11 @@ Global
 		{38889CFD-DCFE-4DC7-B603-27DFB775341A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{38889CFD-DCFE-4DC7-B603-27DFB775341A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{38889CFD-DCFE-4DC7-B603-27DFB775341A}.Release|Any CPU.Build.0 = Release|Any CPU
-	EndGlobalSection
+			EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {EE7BCA78-7027-4997-8649-8B64C6504009}
+		SolutionGuid = {4D632789-BA33-4C6A-835F-2747B51A9E15}
 	EndGlobalSection
 EndGlobal
